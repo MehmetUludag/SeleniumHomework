@@ -28,8 +28,3 @@ Yeni adres bilgileri kaydedilir
 Geçersiz kart ile ürün alımı gerçekleştirilir.
 Hata mesajı alındığı görülür
 Logout olunur.
-
-Oluşturmuş olduğunuzu projeyi git’e yükleyerek projenizin github linkini size iletilen form üzerinden paylaşmalısınız.
-
-
-Son Teslim Tarihi: 19 Mayıs 2022 Saat 23:59
